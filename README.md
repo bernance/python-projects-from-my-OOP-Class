@@ -1,2 +1,5 @@
 # python-projects-from-my-OOP-Class
-During the course of my OOP journey, I took on some projects to help me understand the concepts I was learning. 
+| File name | Description | OOP concept Implemented|
+|-----------|-------------|------------------------|
+|Banking system.py| A banking system to model a savings account and premium savings account| Multilevel inheritance|
+|E commerce management product management.py|  A simple defining product-related classes and methods to manage different product categories efficiently.| Hierchical Iheritance|
